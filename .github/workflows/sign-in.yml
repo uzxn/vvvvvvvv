@@ -15,7 +15,7 @@ on:
   watch:
     types: [ started ]
   schedule:
-    - cron: '7 16 * * *'
+    - cron: '0 4 * * *'
 
 permissions:
   actions: write
